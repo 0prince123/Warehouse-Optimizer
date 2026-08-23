@@ -1,0 +1,41 @@
+product_id,product_name,category,unit_cost,unit_price,supplier,reorder_point,lead_time_days,primary_warehouse
+P1000,Wireless Mouse,Electronics,31.84,56.75,BlueRiver Logistics,29,13,WH-EAST
+P1001,USB-C Cable,Electronics,48.96,67.63,NorthStar Distributors,33,13,WH-CENTRAL
+P1002,Bluetooth Speaker,Electronics,69.7,143.01,Apex Wholesale,54,5,WH-WEST
+P1003,Phone Charger,Electronics,7.34,11.66,Apex Wholesale,44,8,WH-WEST
+P1004,HDMI Cable,Electronics,17.0,24.95,BlueRiver Logistics,47,14,WH-WEST
+P1005,Laptop Stand,Electronics,43.41,58.03,Apex Wholesale,39,19,WH-CENTRAL
+P1006,Webcam,Electronics,50.11,91.79,NorthStar Distributors,42,18,WH-CENTRAL
+P1007,Power Bank,Electronics,38.12,72.8,Summit Trading Group,58,5,WH-EAST
+P1008,Coffee Mug,Home & Kitchen,49.78,65.46,BlueRiver Logistics,23,9,WH-WEST
+P1009,Non-Stick Pan,Home & Kitchen,76.06,133.93,Apex Wholesale,28,20,WH-WEST
+P1010,Cutting Board,Home & Kitchen,26.46,39.79,BlueRiver Logistics,16,17,WH-CENTRAL
+P1011,Blender,Home & Kitchen,49.97,93.98,PrimeSource Ltd,28,19,WH-WEST
+P1012,Toaster,Home & Kitchen,54.01,78.69,NorthStar Distributors,20,12,WH-WEST
+P1013,Storage Containers,Home & Kitchen,5.41,10.4,NorthStar Distributors,40,14,WH-WEST
+P1014,Dish Rack,Home & Kitchen,33.43,55.09,Apex Wholesale,28,18,WH-CENTRAL
+P1015,Kettle,Home & Kitchen,9.81,21.02,Apex Wholesale,54,18,WH-EAST
+P1016,Cotton T-Shirt,Apparel,23.89,34.01,BlueRiver Logistics,38,15,WH-EAST
+P1017,Running Shoes,Apparel,25.81,41.48,BlueRiver Logistics,15,9,WH-EAST
+P1018,Denim Jacket,Apparel,62.46,87.58,Apex Wholesale,22,13,WH-CENTRAL
+P1019,Wool Socks,Apparel,57.43,122.45,PrimeSource Ltd,49,3,WH-CENTRAL
+P1020,Baseball Cap,Apparel,8.7,18.18,NorthStar Distributors,55,9,WH-EAST
+P1021,Rain Jacket,Apparel,50.99,78.12,NorthStar Distributors,47,18,WH-CENTRAL
+P1022,Yoga Pants,Apparel,26.95,51.04,BlueRiver Logistics,49,14,WH-WEST
+P1023,Winter Gloves,Apparel,71.32,145.17,Global Supply Co,49,7,WH-CENTRAL
+P1024,Notebook,Office Supplies,57.92,104.24,Global Supply Co,19,16,WH-CENTRAL
+P1025,Ballpoint Pens (Pack),Office Supplies,6.11,10.86,NorthStar Distributors,56,15,WH-CENTRAL
+P1026,Desk Organizer,Office Supplies,5.42,8.23,Global Supply Co,46,6,WH-WEST
+P1027,Stapler,Office Supplies,13.73,19.0,BlueRiver Logistics,29,13,WH-EAST
+P1028,Sticky Notes,Office Supplies,20.62,43.46,PrimeSource Ltd,36,4,WH-WEST
+P1029,Whiteboard Marker,Office Supplies,65.23,137.66,Global Supply Co,20,14,WH-WEST
+P1030,File Folder,Office Supplies,71.01,132.77,NorthStar Distributors,42,9,WH-WEST
+P1031,Desk Lamp,Office Supplies,11.47,18.41,Global Supply Co,41,15,WH-EAST
+P1032,Yoga Mat,Sports & Outdoors,26.47,42.73,Summit Trading Group,22,11,WH-WEST
+P1033,Water Bottle,Sports & Outdoors,20.1,39.26,PrimeSource Ltd,56,14,WH-CENTRAL
+P1034,Resistance Bands,Sports & Outdoors,15.96,33.63,Global Supply Co,26,9,WH-WEST
+P1035,Camping Tent,Sports & Outdoors,57.84,121.37,BlueRiver Logistics,31,19,WH-WEST
+P1036,Hiking Backpack,Sports & Outdoors,41.71,83.5,Summit Trading Group,37,7,WH-EAST
+P1037,Dumbbell Set,Sports & Outdoors,51.85,97.37,Summit Trading Group,16,14,WH-WEST
+P1038,Bicycle Helmet,Sports & Outdoors,78.9,108.54,Apex Wholesale,25,19,WH-CENTRAL
+P1039,Tennis Racket,Sports & Outdoors,64.84,93.72,BlueRiver Logistics,48,8,WH-WEST

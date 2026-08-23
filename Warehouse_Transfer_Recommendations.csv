@@ -1,0 +1,23 @@
+product_id,product_name,from_warehouse,to_warehouse,recommended_transfer_qty,reason
+P1000,Wireless Mouse,WH-EAST,WH-WEST,13,WH-WEST has 4.3 days cover (< lead time 13d); WH-EAST has 227.8 days cover
+P1004,HDMI Cable,WH-WEST,WH-EAST,4,WH-EAST has 10.3 days cover (< lead time 14d); WH-WEST has 151.1 days cover
+P1005,Laptop Stand,WH-WEST,WH-CENTRAL,5,WH-CENTRAL has 10.7 days cover (< lead time 19d); WH-WEST has 40.4 days cover
+P1007,Power Bank,WH-EAST,WH-CENTRAL,16,WH-CENTRAL has 0.8 days cover (< lead time 5d); WH-EAST has 374.0 days cover
+P1008,Coffee Mug,WH-WEST,WH-EAST,13,WH-EAST has 0.5 days cover (< lead time 9d); WH-WEST has 20.6 days cover
+P1009,Non-Stick Pan,WH-WEST,WH-CENTRAL,7,WH-CENTRAL has 6.7 days cover (< lead time 20d); WH-WEST has 263.4 days cover
+P1012,Toaster,WH-WEST,WH-CENTRAL,7,WH-CENTRAL has 4.2 days cover (< lead time 12d); WH-WEST has 24.6 days cover
+P1013,Storage Containers,WH-CENTRAL,WH-WEST,16,WH-WEST has 1.1 days cover (< lead time 14d); WH-CENTRAL has 71.8 days cover
+P1015,Kettle,WH-WEST,WH-CENTRAL,10,WH-CENTRAL has 13.9 days cover (< lead time 18d); WH-WEST has 42.0 days cover
+P1016,Cotton T-Shirt,WH-CENTRAL,WH-WEST,21,WH-WEST has 10.3 days cover (< lead time 15d); WH-CENTRAL has 76.6 days cover
+P1018,Denim Jacket,WH-WEST,WH-EAST,17,WH-EAST has 8.3 days cover (< lead time 13d); WH-WEST has 53.4 days cover
+P1022,Yoga Pants,WH-CENTRAL,WH-WEST,3,WH-WEST has 12.7 days cover (< lead time 14d); WH-CENTRAL has 79.7 days cover
+P1024,Notebook,WH-WEST,WH-CENTRAL,8,WH-CENTRAL has 3.0 days cover (< lead time 16d); WH-WEST has 32.3 days cover
+P1025,Ballpoint Pens (Pack),WH-EAST,WH-CENTRAL,25,WH-CENTRAL has 3.7 days cover (< lead time 15d); WH-EAST has 2945.7 days cover
+P1029,Whiteboard Marker,WH-EAST,WH-WEST,15,WH-WEST has 3.4 days cover (< lead time 14d); WH-EAST has 51.0 days cover
+P1030,File Folder,WH-CENTRAL,WH-EAST,22,WH-EAST has 5.5 days cover (< lead time 9d); WH-CENTRAL has 37.9 days cover
+P1031,Desk Lamp,WH-WEST,WH-EAST,14,WH-EAST has 7.5 days cover (< lead time 15d); WH-WEST has 187.7 days cover
+P1034,Resistance Bands,WH-EAST,WH-WEST,16,WH-WEST has 0.3 days cover (< lead time 9d); WH-EAST has 362.5 days cover
+P1035,Camping Tent,WH-CENTRAL,WH-EAST,3,WH-EAST has 14.6 days cover (< lead time 19d); WH-CENTRAL has 1765.4 days cover
+P1036,Hiking Backpack,WH-WEST,WH-EAST,15,WH-EAST has 0.1 days cover (< lead time 7d); WH-WEST has 123.5 days cover
+P1037,Dumbbell Set,WH-CENTRAL,WH-WEST,5,WH-WEST has 6.4 days cover (< lead time 14d); WH-CENTRAL has 61.5 days cover
+P1038,Bicycle Helmet,WH-WEST,WH-EAST,15,WH-EAST has 8.6 days cover (< lead time 19d); WH-WEST has 64.6 days cover
