@@ -225,3 +225,7 @@ cd Warehouse-Optimizer
 pip install -r requirements.txt
 python generate_data.py
 python forecast_and_optimize.py
+
+## Data Note
+
+This project uses synthetic warehouse data for demonstration purposes. No real company, customer, or supplier data is included.
