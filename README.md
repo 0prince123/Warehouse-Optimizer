@@ -201,3 +201,18 @@ Use something close to this, adjusted to your actual voice:
 > custom day-by-day inventory simulation. Built SQL analysis using CTEs
 > and window functions for ABC classification and stockout-risk detection,
 > and delivered a 4-page Power BI dashboard with live DAX measures.
+
+
+ ## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](executive-overview.png)
+
+### Risk Monitor
+![Risk Monitor](riskmonitor.png)
+
+### Cost Impact
+![Cost Impact](costimpact.png)
+
+### Transfers
+![Transfers](transfers.png)
