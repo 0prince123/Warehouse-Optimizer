@@ -216,3 +216,12 @@ Use something close to this, adjusted to your actual voice:
 
 ### Transfers
 ![Transfers](transfers.png)
+
+## Quick Start
+
+```bash
+git clone https://github.com/0prince123/Warehouse-Optimizer.git
+cd Warehouse-Optimizer
+pip install -r requirements.txt
+python generate_data.py
+python forecast_and_optimize.py
